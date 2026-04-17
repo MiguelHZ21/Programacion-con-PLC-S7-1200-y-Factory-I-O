@@ -3,7 +3,11 @@
 ## 📌 Descripción
 
 Implementación de un sistema de control utilizando un **PLC S7-1200**, una **HMI** y simulación en **Factory I/O**, con comunicación mediante **OPC Server** y conexión **Ethernet punto a punto**.
-
+![Imagenes](Imagebes/Imagen1.png)
+![Imagenes](Imagebes/Imagen2.png)
+![Imagenes](Imagebes/Imagen3.png)
+![Imagenes](Imagebes/Imagen4.png)
+![Imagenes](Imagebes/Imagen5.png)
 ---
 
 ## 🎯 Objetivo
